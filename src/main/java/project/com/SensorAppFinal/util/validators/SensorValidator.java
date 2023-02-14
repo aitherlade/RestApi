@@ -8,7 +8,7 @@ import project.com.SensorAppFinal.sensor.Sensor;
 import project.com.SensorAppFinal.sensor.SensorService;
 @Service
 public class SensorValidator implements Validator {
-    SensorService sensorService;
+   private final  SensorService sensorService;
 
     public SensorValidator(SensorService sensorService) {
         this.sensorService = sensorService;
