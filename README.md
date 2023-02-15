@@ -15,6 +15,7 @@ It is a REST API developed using Spring REST.
 Functionallity:
 1) register a new sensor 
 2) get all of the available sensors
-2) send measurements using one of the existing sensor
-3) get measurements and sensor who sent data
-4) calculate the total number of raining days based on all measurements
+3) send measurements using one of the existing sensor
+4) get measurements and sensor who sent data
+5) calculate the total number of raining days based on all measurements
+6) validation using Spring and Hibernate validators
