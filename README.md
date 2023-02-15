@@ -18,5 +18,5 @@ Functionallity:
 1) register a new sensor 
 2) get all of the available sensors
 2) send measurements using one of the existing sensor
-3) get measurements and Sensor who sent data
+3) get measurements and sensor who sent data
 4) calculate the total number of raining days based on all measurements
