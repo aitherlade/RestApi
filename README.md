@@ -13,9 +13,9 @@ It is a REST API developed using Spring REST.
 2) REST API client that sends requests using RestTemplate.
 
 Functionallity:
-1) register a new sensor 
-2) get all of the available sensors
-3) send measurements using one of the existing sensor
-4) get measurements and sensor who sent data
-5) calculate the total number of raining days based on all measurements
-6) validation using Spring and Hibernate validators
+1) Register a new sensor 
+2) Retrieve all of the available sensors
+3) Send measurements using one of the existing sensor
+4) Retrieve measurements and identify the sensor that sent the data.
+5) Calculate the total number of raining days based on all measurements
+6) Validation using Spring and Hibernate validators
