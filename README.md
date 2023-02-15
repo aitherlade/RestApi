@@ -3,6 +3,7 @@ This project demonstrates a simple implementation of microservices using Java, P
 The project also utilizes the Apache Maven build tool.
 
 Idea: 
+
 The project idea is to develop a sensor that can automatically measure temperature and detect rainfall,and then send  the collected data to a server for future analysis.
 Furthermore, the project aims to provide a client-side interface to access the data.
 
